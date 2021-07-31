@@ -1,2 +1,2 @@
-with Pytorch
+with Pytorch & Only Python
 =========================
